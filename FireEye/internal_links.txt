@@ -1,0 +1,3 @@
+https://www.fireeye.com/blog/threat-research/2020/08/hands-on-introduction-to-mandiant-approach-to-ot-red-teaming.html
+https://www.fireeye.com/blog/threat-research/2020/08/cookiejar-tracking-adversaries-with-fireeye-endpoint-security-module.html
+https://www.fireeye.com/blog/threat-research/2020/08/bypassing-masslogger-anti-analysis-man-in-the-middle-approach.html
