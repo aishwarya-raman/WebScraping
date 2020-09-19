@@ -1,0 +1,5 @@
+https://www.intezer.com/blog/cloud-security/complementing-your-cspm-with-runtime-cloud-workload-protection/
+https://www.intezer.com/blog/cloud-security/ttps-matrix-for-linux-cloud-servers-with-detection-methods/
+https://www.intezer.com/blog/cloud-workload-protection/attackers-abusing-legitimate-cloud-monitoring-tools-to-conduct-cyber-attacks/
+https://www.intezer.com/blog/threat-hunting/turning-open-source-against-malware/
+https://www.intezer.com/blog/linux/elf-malware-analysis-101-initial-analysis/
